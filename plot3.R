@@ -1,6 +1,6 @@
 getwd()
 
-setwd("C:\Users\Amy\Desktop\Coursera Anal Graphics\exdata-data-household_power_consumption")
+setwd("C:/Users/Amy/Desktop/Coursera Anal Graphics/exdata-data-household_power_consumption")
 
 
 ##read in data noting data is separated by ';' and make all the fields factors 
